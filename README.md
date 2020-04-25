@@ -1,0 +1,2 @@
+# useradd firebase script
+ hi
